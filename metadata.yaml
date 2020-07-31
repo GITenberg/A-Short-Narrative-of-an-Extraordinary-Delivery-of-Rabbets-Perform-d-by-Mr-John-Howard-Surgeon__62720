@@ -1,0 +1,34 @@
+_repo: A-Short-Narrative-of-an-Extraordinary-Delivery-of-Rabbets-Perform-d-by-Mr-John-Howard-Surgeon__62720
+_version: 0.0.1
+creator:
+  author:
+    agent_name: St. André, Nathanael
+    aliases:
+    - St. Andre, Nathanael
+    - St. André, Nathaniel
+    - André, Nathanael St.
+    - Saint André, Nathanael
+    birthdate: 1680
+    deathdate: 1776
+    gutenberg_agent_id: '52089'
+    url: http://www.gutenberg.org/2009/agents/52089
+    wikipedia: https://en.wikipedia.org/wiki/Nathaniel_St_Andr%C3%A9
+description: ''
+gutenberg_issued: '2020-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62720'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Obstetrics -- Early works to 1800'
+- !lcc 'RG'
+- !lcsh 'Fraud'
+- !lcsh 'Factitious disorders'
+- !lcsh 'Toft, Mary, 1703-1763'
+- GITenberg
+title: A Short Narrative of an Extraordinary Delivery of Rabbets, Perform'd by Mr.
+  John Howard Surgeon at Guilford
+url: http://www.gutenberg.org/ebooks/62720
