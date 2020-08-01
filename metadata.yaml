@@ -1,5 +1,8 @@
 _repo: A-Short-Narrative-of-an-Extraordinary-Delivery-of-Rabbets-Perform-d-by-Mr-John-Howard-Surgeon__62720
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62720-h/images/cover.jpg
 creator:
   author:
     agent_name: St. André, Nathanael
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52089
     wikipedia: https://en.wikipedia.org/wiki/Nathaniel_St_Andr%C3%A9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62720#A-Short-Narrative-of-an-Extraordinary-Delivery-of-Rabbets-Perform-d-by-Mr-John-Howard-Surgeon_
 gutenberg_issued: '2020-07-21'
 gutenberg_type: Text
 identifiers:
